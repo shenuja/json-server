@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "id": "project-0",
+      "name": "Sunrise Hospital",
+      "location": "Kochi, Kerala"
+    },
+    {
+      "id": "project-1",
+      "name": "Holiday Inn",
+      "location": "Singapore"
+    },
+    {
+      "id": "project-2",
+      "name": "sdsd",
+      "location": "sds"
+    },
+    {
+      "id": "project-3",
+      "name": "sdsd",
+      "location": "sds"
+    },
+    {
+      "id": "project-4",
+      "name": "National Builders",
+      "location": "California"
+    },
+    {
+      "id": "project-5",
+      "name": "Tanjung Rhu",
+      "location": "Langkawi"
+    },
+    {
+      "id": "project-6",
+      "name": "Tanjung Rhu",
+      "location": "Langkawi"
+    }
+  ]
+}
